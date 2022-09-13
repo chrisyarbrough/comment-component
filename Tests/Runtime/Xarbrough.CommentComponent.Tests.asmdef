@@ -15,8 +15,15 @@
     ],
     "autoReferenced": false,
     "defineConstraints": [
-        "UNITY_INCLUDE_TESTS"
+        "UNITY_INCLUDE_TESTS",
+        "UNITY_NUNIT"
     ],
-    "versionDefines": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.ext.nunit",
+            "expression": "",
+            "define": "UNITY_NUNIT"
+        }
+    ],
     "noEngineReferences": false
 }

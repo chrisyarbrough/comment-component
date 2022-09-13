@@ -16,7 +16,7 @@ namespace Xarbrough.CommentComponent
 		[Tooltip("The icon to show next to the text.")]
 		[UsedImplicitly]
 		[SerializeField]
-		private IconType iconType;
+		private IconType iconType = IconType.None;
 
 		internal enum IconType
 		{

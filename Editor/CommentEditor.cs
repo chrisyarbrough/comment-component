@@ -16,7 +16,7 @@ namespace Xarbrough.CommentComponent.Editor
 	public class CommentEditor : Editor
 	{
 		[SerializeField]
-		private StyleSheet styleSheet;
+		private StyleSheet styleSheet = null;
 
 		private EditSession editSession;
 		private SerializedProperty textProp;
