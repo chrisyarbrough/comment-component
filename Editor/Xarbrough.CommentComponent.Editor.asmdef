@@ -1,0 +1,18 @@
+{
+    "name": "Xarbrough.CommentComponent.Editor",
+    "rootNamespace": "Xarbrough.CommentComponent.Editor",
+    "references": [
+        "GUID:9acca19c59e31894b9a8365ab210fa6e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

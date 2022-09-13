@@ -1,0 +1,25 @@
+{
+    "name": "Xarbrough.CommentComponent.Editor.Tests",
+    "rootNamespace": "Xarbrough.CommentComponent.Editor.Tests",
+    "references": [
+        "UnityEditor.TestRunner",
+        "UnityEngine.TestRunner",
+        "Xarbrough.CommentComponent",
+        "Xarbrough.CommentComponent.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,36 @@
+#root {
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+/* For icon and comment text. */
+#container {
+    flex-direction: row;
+}
+
+/* The info or warn icon. */
+IconField {
+    margin-right: 5px;
+    align-self: center;
+}
+
+/* The text in readonly mode. */
+#comment-text {
+    min-height: 20px;
+    white-space: normal;
+    flex-shrink: 1;
+    margin-right: 3px;
+    -unity-text-align: middle-left;
+}
+
+/* The text field when editing the text. */
+#unity-text-input {
+    min-height: 128px;
+    white-space: normal;
+    -unity-text-align: upper-left;
+}
+
+/* The button to stop editing. */
+#end-editing-button {
+    width: 80px;
+}

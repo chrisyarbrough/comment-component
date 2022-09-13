@@ -1,0 +1,8 @@
+{
+  "name": "com.xarbrough.commentcomponent",
+  "displayName": "Comment Component",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "description": "Provides a component which displays an editable text on GameObjects with a nice readonly display and the ability to select an icon.\n\nComments are removed during the build process and do not cost any performance or storage in the player.",
+  "hideInEditor": false
+}
