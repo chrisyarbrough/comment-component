@@ -1,3 +1,4 @@
+#if !DISABLE_COMMENTREMOVER
 namespace Xarbrough.CommentComponent.Editor
 {
 	using System.Collections.Generic;
@@ -54,3 +55,4 @@ namespace Xarbrough.CommentComponent.Editor
 		public int callbackOrder => 0;
 	}
 }
+#endif

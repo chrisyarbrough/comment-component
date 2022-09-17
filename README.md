@@ -12,6 +12,8 @@ Double click or press CTRL + Enter/Return to edit the text and select an icon.
 Comments within scenes are removed during the build process and will not add overhead to the player.
 There's a preferences option to toggle the logging of removed comments.
 
+To disable comment removal entirely, set the scripting define symbol DISABLE_COMMENTREMOVER in the player settings.
+
 **Compatibility**
 
 The minimum supported Unity version is 2020.1. The package was tested with the following Unity versions:
